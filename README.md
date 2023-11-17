@@ -1,0 +1,2 @@
+# ImageHandler
+Dummy PlugIn
